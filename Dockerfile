@@ -11,4 +11,4 @@ WORKDIR /app
 COPY . .
 
 # Start the static server
-CMD ["serve", "-l", "3000"]}
+CMD ["serve", "-l", "3000"]
